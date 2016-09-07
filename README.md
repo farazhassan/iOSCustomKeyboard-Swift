@@ -25,3 +25,5 @@ The following features are also implemented, with more to come:
 ## License
 
 This project is free to use for any purpose, including commercially, with no attribution required.
+
+## INSPIRED FROM [BHJStudios'](https://github.com/bjhstudios) [iOSCustomKeyboard](https://github.com/bjhstudios/iOSCustomKeyboard)
